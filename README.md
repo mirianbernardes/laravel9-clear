@@ -2,7 +2,7 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/especializati/setup-docker-laravel.git
+git clone https://github.com/mirianbernardes/laravel9-clear.git
 ```
 
 Clone os Arquivos do Laravel
